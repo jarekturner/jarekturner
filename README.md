@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Private Networks</b>
-  - [VPN: Installation & Usage](https://github.com/jarekturner)
+  - [VPN: Installation & Usage](https://github.com/jarekturner/VPN-Setup)
   
 
 
